@@ -1,0 +1,72 @@
+{
+  "CAKEUSDT": {
+    "regime": "CVD_SHORT",
+    "strength": 100,
+    "price_pct": 2.372468931954452,
+    "cvd_pct": -324.5860445279183,
+    "timestamp": 1765213707.8382285
+  },
+  "ALLOUSDT": {
+    "regime": "CVD_SHORT",
+    "strength": 100,
+    "price_pct": 6.215040397762592,
+    "cvd_pct": -360.20066115506336,
+    "timestamp": 1765213727.0993302
+  },
+  "BMTUSDT": {
+    "regime": "CVD_SHORT",
+    "strength": 100,
+    "price_pct": 6.5857247976453275,
+    "cvd_pct": -3554.886983893353,
+    "timestamp": 1765213782.9335237
+  },
+  "1000LUNCUSDT": {
+    "regime": "CVD_LONG",
+    "strength": 100,
+    "price_pct": -2.6693227091633482,
+    "cvd_pct": 916.6356492504907,
+    "timestamp": 1765213795.4122376
+  },
+  "CCUSDT": {
+    "regime": "CVD_SHORT",
+    "strength": 100,
+    "price_pct": 12.030294203320716,
+    "cvd_pct": -1131.0959707828576,
+    "timestamp": 1765213800.366521
+  },
+  "RDNTUSDT": {
+    "regime": "CVD_SHORT",
+    "strength": 100,
+    "price_pct": 32.38904627006609,
+    "cvd_pct": -584.361516765302,
+    "timestamp": 1765213801.7095976
+  },
+  "BLUAIUSDT": {
+    "regime": "CVD_SHORT",
+    "strength": 100,
+    "price_pct": 7.823896035008611,
+    "cvd_pct": -448.34392421814925,
+    "timestamp": 1765213802.289631
+  },
+  "IRYSUSDT": {
+    "regime": "CVD_SHORT",
+    "strength": 98.18801095492304,
+    "price_pct": 3.9152595461146427,
+    "cvd_pct": -256.6850339059932,
+    "timestamp": 1765213818.4915576
+  },
+  "ADAUSDT": {
+    "regime": "CVD_SHORT",
+    "strength": 95.01012067900021,
+    "price_pct": 1.4130182997452052,
+    "cvd_pct": -964.3466125282833,
+    "timestamp": 1765213794.845205
+  },
+  "1000CATUSDT": {
+    "regime": "CVD_SHORT",
+    "strength": 91.95144679773635,
+    "price_pct": 3.4564254062038375,
+    "cvd_pct": -125.1907784374025,
+    "timestamp": 1765213706.966179
+  }
+}
