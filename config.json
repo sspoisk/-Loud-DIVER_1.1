@@ -3,8 +3,8 @@
     "leverage": 20,
     "scanner_liquidity_filter": 100000.0,
     "scanner_timeframe": "1h",
-    "api_key": "твой ключ",
-    "api_secret": "твой ключ",
+    "api_key": "keys",
+    "api_secret": "keys",
     "paper_start_balance": 1000.0,
     "max_concurrent_trades": 20,
     "strategy_timeframe": "5m",
@@ -22,4 +22,5 @@
     "cvd_max_signals": 10,
     "cvd_min_price_pct": 0.9,
     "cvd_min_cvd_pct": 80.0
+
 }
