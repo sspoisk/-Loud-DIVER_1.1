@@ -22,4 +22,5 @@
     "cvd_max_signals": 10,
     "cvd_min_price_pct": 0.9,
     "cvd_min_cvd_pct": 80.0
+
 }
