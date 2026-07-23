@@ -49,3 +49,12 @@ Trading cryptocurrencies involves significant risk. This bot is provided for edu
 
 ---
 *Developed by cryptowolf programmer*
+
+
+---
+
+> ⚠️ **Archival experiment (2024–2025).** This is one of a series of personal crypto trading-bot experiments. Active trading has stopped; the code is released as-is for reference and learning. It may not run without adaptation (exchange API changes, missing dependencies, or configuration). **No warranty — never run it against a funded exchange account without a full review.**
+
+## License
+
+MIT — see [LICENSE](LICENSE).
